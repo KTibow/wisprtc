@@ -7,7 +7,7 @@ import initEpoxy, {
   EpoxyClient,
   EpoxyClientOptions,
   EpoxyHandlers,
-} from "@mercuryworkshop/epoxy-tls";
+} from "@mercuryworkshop/epoxy-tls/epoxy";
 
 // TODO: remove queue once https://github.com/MercuryWorkshop/epoxy-tls/issues/16 fixed
 class RequestQueue {
