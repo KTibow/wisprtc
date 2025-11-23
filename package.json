@@ -1,0 +1,17 @@
+{
+  "name": "wisprtc",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "tasks": {
+    "knip": "knip"
+  },
+  "dependencies": {
+    "@mercuryworkshop/bare-mux": "^2.1.7",
+    "@mercuryworkshop/epoxy-tls": "2.1.18-1",
+    "ipaddr.js": "^2.2.0"
+  },
+  "devDependencies": {
+    "knip": "^5.70.1"
+  }
+}
